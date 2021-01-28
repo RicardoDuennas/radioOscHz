@@ -9,7 +9,7 @@ Somos un grupo de creación bla bla bla bla bla bla bla bla bla bla bla bla bla 
 # El desconocido laico
 
 
-<iframe width="100%" src="https://www.youtube.com/embed/KngGlpc4kBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/KngGlpc4kBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Cuentos cortos
 
@@ -44,7 +44,7 @@ Somos un grupo de creación bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
 # Integrantes
 
-### Junito Acción
+### Junito
 
 Hola soy un niño que solo busco un lugar en el cual distraerse y esto es muy bueno si te gusta la edición y programación bueno si te quieres unir a nuestro curso mi apodo es junito y mi edad actual es 12 años.
 
