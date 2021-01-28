@@ -6,3 +6,5 @@ title: Homed
 
 [Link to another page](linktoyour.mp3?autoplay=1&loop=1&controls=0).
 
+linktoyour.mp3?autoplay=1&loop=1&controls=0
+
