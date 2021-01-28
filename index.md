@@ -4,7 +4,10 @@ title: Homed
 ---
 # El desconocido laico
 
-[Link to another page](../_assets/Cuento1.mp3?autoplay=1&loop=1&controls=0).
+<audio controls preload="metadata" style=" width:300px;">
+        <source src="_assets/Cuento1.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio><br />
+        <a href="http://scriptgenerator.net/really-simple-embed-audio-player-script/" title="Generate here your HTML5 audio player" style="text-align: right;display: block">HTML5 Audio Player</a> 
 
-../_assets/Cuento1.mp3?autoplay=1&loop=1&controls=0
 
