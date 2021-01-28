@@ -2,4 +2,4 @@
 layout: default
 title: Home
 ---
-<h1>{{ "Hellof World!" | downcase }}</h1>
+<h1>{{ "Helloj World!" | downcase }}</h1>
