@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homed
+title: Home2
 ---
 # El desconocido laico
 
