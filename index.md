@@ -8,7 +8,7 @@ Somos un grupo de creación bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
 # El desconocido laico
 
- Hola, el desconocido laico es un radioteatro que hicimos todos en conjunto que fue un proyecto largo casi de un mes pero valió la pena y nos gusto nuestro proyecto y durante el tiempo vamos a hacer más proyectos así :)
+  Hola, el desconocido laico es un radioteatro que hicimos todos en conjunto, fue un proyecto largo, casi de un mes pero valió la pena y nos gustó nuestro proyecto. Durante el tiempo vamos a hacer más proyectos así. 
 
 <div class="video">
     <iframe width="100%" src="https://www.youtube.com/embed/KngGlpc4kBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -54,3 +54,15 @@ Hola soy un niño que solo busco un lugar en el cual distraerse y esto es muy bu
 ### Juan
 
 Hola soy un chico entusiasmado por las artes de edición si quieres conocerme mi sobrenombre es Juancho García y conocerás las maravillas de la edicion.
+
+### Kevin
+
+
+### Emily
+
+
+### Profe Luis Eduardo
+
+
+### Profe Ricardo
+
