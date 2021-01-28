@@ -8,8 +8,11 @@ Somos un grupo de creación bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
 # El desconocido laico
 
+ Hola, el desconocido laico es un radioteatro que hicimos todos en conjunto que fue un proyecto largo casi de un mes pero valió la pena y nos gusto nuestro proyecto y durante el tiempo vamos a hacer más proyectos así :)
 
-<iframe src="https://www.youtube.com/embed/KngGlpc4kBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video">
+    <iframe width="100%" src="https://www.youtube.com/embed/KngGlpc4kBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 # Cuentos cortos
 
